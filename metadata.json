@@ -1,0 +1,6 @@
+{
+  "name": "Scientific Calculator",
+  "description": "Calculadora Científica Avanzada completa con operaciones científicas, trigonometría DEG/RAD/GRAD, conversor de unidades, matrices, números complejos y herramientas estadísticas y algebraicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
